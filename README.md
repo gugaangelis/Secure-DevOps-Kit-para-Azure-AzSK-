@@ -29,19 +29,19 @@ Governança de Riscos na Nuvem: Por fim, subjacente a todas as atividades do kit
 [Back to top...](README.md#content)  
 
 ### Setting up Secure DevOps Kit for Azure
-1. You can follow the [installation guide](00a-Setup/Readme.md) and install the AzSK on your system.  
-2. After the installation is complete, please make sure that you are logged into your Azure subscription in Powershell ISE.
+1. Você pode seguir o [installation guide](00a-Setup/Readme.md) e instale o AzSK em seu sistema.
+2. Após a conclusão da instalação, certifique-se de estar conectado à sua assinatura do Azure no PowerShell ISE.
 
-> A quick note is due here about use of PowerShell (and PowerShell ISE). The AzSK heavily uses PowerShell-based functions and modules to accomplish security configuration, provisioning and for running security scans and test cases. Some of our first time users of the AzSK occasionally also get a first exposure to PowerShell/PowerShell ISE as part of the AzSK first use experience. Given how extensively PowerShell is used (and useful) across various activities in Azure, we highly encourage you to work past the initial challenges. Several people (including some members of our own team) were new to PowerShell just a few weeks ago. However, once they got past the initial bumps, it has been smooth sailing.  
+> Cabe aqui uma breve observação sobre o uso do PowerShell (e do PowerShell ISE). O AzSK utiliza amplamente funções e módulos baseados em PowerShell para realizar configurações de segurança, provisionamento e para executar verificações e testes de segurança. Alguns dos nossos usuários iniciantes do AzSK também têm um primeiro contato com o PowerShell/PowerShell ISE como parte da experiência de primeiro uso. Dado o quão amplamente o PowerShell é usado (e útil) em diversas atividades no Azure, recomendamos fortemente que você supere os desafios iniciais. Várias pessoas (incluindo alguns membros da nossa própria equipe) eram iniciantes no PowerShell até algumas semanas atrás. No entanto, depois de superarem as dificuldades iniciais, tudo correu bem.
 
-If you have completed the above steps then you are all set to get started with the AzSK.  
+Se você concluiu as etapas acima, está tudo pronto para começar a usar o AzSK.
 
 [Back to top...](README.md#content)
-### Getting started with Secure DevOps Kit for Azure  
+### Primeiros passos com o Secure DevOps Kit para Azure
 
-For the first time users, we would encourage to go through this section to become more familiar with the toolkit. It wouldn't take more than 30 mins to go through the getting started guide. Thereafter, you can explore the individual features in-depth following section [*Complete feature set of Secure DevOps Kit for Azure*](README.md#complete-feature-set-of-secure-devops-kit-for-azure).  
+Para usuários iniciantes, recomendamos que leiam esta seção para se familiarizarem com o conjunto de ferramentas. A leitura do guia de primeiros passos não levará mais de 30 minutos. Depois disso, você poderá explorar os recursos individuais em detalhes na seção seguinte. [*Complete feature set of Secure DevOps Kit for Azure*](README.md#complete-feature-set-of-secure-devops-kit-for-azure).  
 
-#### The two basic use cases:  
+#### Os dois casos de uso básicos:
 
 Regardless of your specific functional role, it is likely that you are concerned about two things when it comes to security in Azure. Click on the links below to walk through these 2 'kick start' use cases of AzSK.
 1. [Security of your subscription](00b-Getting-Started/GettingStarted_SubscriptionSecurity.md)
