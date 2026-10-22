@@ -1,7 +1,7 @@
 
-> The Secure DevOps Kit for Azure (AzSK) was created by the Core Services Engineering & Operations (CSEO) division at Microsoft, to help accelerate Microsoft IT's adoption of Azure. We have shared AzSK and its documentation with the community to provide guidance for rapidly scanning, deploying and operationalizing cloud resources, across the different stages of DevOps, while maintaining controls on security and governance.
-<br>AzSK is not an official Microsoft product – rather an attempt to share Microsoft CSEO's best practices with the community..
-# Secure DevOps Kit for Azure (AzSK)
+> O Secure DevOps Kit para Azure (AzSK) foi criado pela divisão Core Services Engineering & Operations (CSEO) da Microsoft para ajudar a acelerar a adoção do Azure pela TI da Microsoft. Compartilhamos o AzSK e sua documentação com a comunidade para fornecer orientações sobre como escanear, implantar e operacionalizar recursos na nuvem rapidamente, em todas as etapas do DevOps, mantendo o controle sobre segurança e governança.
+<br>O AzSK não é um produto oficial da Microsoft – trata-se, na verdade, de uma tentativa de compartilhar as melhores práticas da Microsoft CSEO com a comunidade.
+# Secure DevOps Kit para Azure (AzSK)
 
 ## Content
 - [Overview](README.md#overview)  
