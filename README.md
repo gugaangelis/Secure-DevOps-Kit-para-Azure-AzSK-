@@ -43,19 +43,19 @@ Para usuários iniciantes, recomendamos que leiam esta seção para se familiari
 
 #### Os dois casos de uso básicos:
 
-Regardless of your specific functional role, it is likely that you are concerned about two things when it comes to security in Azure. Click on the links below to walk through these 2 'kick start' use cases of AzSK.
+Independentemente da sua função específica, é provável que você tenha duas preocupações em relação à segurança no Azure. Clique nos links abaixo para conhecer esses dois casos de uso introdutórios do AzSK.
 1. [Security of your subscription](00b-Getting-Started/GettingStarted_SubscriptionSecurity.md)
 2. [Security of various azure service instances used by your solution or application](00b-Getting-Started/GettingStarted_AzureServiceSecurity.md)  
 
-These use cases will tell you which commands you will need to run, what would happen in the background and what will be the output that you will get.  
+Esses casos de uso indicarão quais comandos você precisará executar, o que acontecerá em segundo plano e qual será o resultado obtido.
 
-By leveraging the extensive degree of automation that AzSK has to offer, ability to centrally deploy and manage policies/rules and the uniform behavior of scripts across the kit, you can save several hours of what would otherwise be manual security checks and examination.  
+Ao aproveitar o alto grau de automação que o AzSK oferece, a capacidade de implantar e gerenciar políticas/regras de forma centralizada e o comportamento uniforme dos scripts em todo o conjunto de ferramentas, você pode economizar várias horas que seriam gastas em verificações e análises de segurança manuais.
 
-As you get familiar with and begin to use the 'downstream' capabilities (CICD, Continuous Compliance, Log Analytics support, etc.), the power of security automation and the seamless end-to-end experience that the AzSK unleashes will become more evident.  
+À medida que você se familiariza e começa a usar os recursos "a jusante" (CI/CD, Conformidade Contínua, suporte a Log Analytics, etc.), o poder da automação de segurança e a experiência integrada de ponta a ponta proporcionada pelo AzSK se tornarão mais evidentes.
 
 [Back to top...](README.md#content) 
 
-### Complete feature set of Secure DevOps Kit for Azure
+### Conjunto completo de funcionalidades do Secure DevOps Kit para Azure
 
 |Feature Area | Secure DevOps Kit Feature|
 |-------------|--------------------------|
@@ -67,8 +67,8 @@ As you get familiar with and begin to use the 'downstream' capabilities (CICD, C
 [Cloud Risk Governance](06-Security-Telemetry/Readme.md) | <ul><li>Control/usage telemetry through Insights</li></ul>
 
 [Back to top...](README.md#content) 
-### What do you want to use the secure devops kit for?
-As you can see from the summary description above, the "Secure DevOps Kit for Azure" (we will call it AzSK to be brief hereafter), can be used by many different stakeholders. So depending on your role in the DevOps ecosystem, one or more of the below scenarios may apply to you. The skillset needed to use the capabilities of the kit and the prerequisites you need to have on your machine will vary based on your scenario. Here are a few sample stakeholders and some points about *how* they may try to use the AzSK:  
+### Para que você deseja usar o Secure DevOps Kit?
+Como você pode ver na descrição resumida acima, o "Secure DevOps Kit for Azure" (que chamaremos de AzSK daqui em diante, para simplificar) pode ser usado por diversas partes interessadas. Portanto, dependendo da sua função no ecossistema DevOps, um ou mais dos cenários abaixo podem se aplicar a você. As habilidades necessárias para usar os recursos do kit e os pré-requisitos que você precisa ter em sua máquina variam de acordo com o cenário. Aqui estão alguns exemplos de partes interessadas e alguns pontos sobre *como* elas podem tentar usar o AzSK:
 
 |Stakeholders / Persona   |Capabilities of the kit     |
 | ---- | ---- |
@@ -79,11 +79,11 @@ As you can see from the summary description above, the "Secure DevOps Kit for Az
 |**Compliance Team**| Ensure that various, often challenging, compliance requirements (e.g., SOX) are met for Azure-based solutions.|
 |**IT Security Teams**| Use all of the above depending on the InfoSec domain you are engaged in as a 'Security Analyst'.|
 
->  Note that, increasingly, in a DevOps culture, some of the roles listed in the left column above blend together. So, for instance, the same person who is writing code may also be involved in the CICD pipeline setup or the deployment stages of a solution. So please consider the roles above as functional responsibilities as opposed to hard segregations of stakeholders.
+> Observe que, cada vez mais, em uma cultura DevOps, algumas das funções listadas na coluna da esquerda acima se misturam. Assim, por exemplo, a mesma pessoa que escreve o código também pode estar envolvida na configuração do pipeline de CI/CD ou nas etapas de implantação de uma solução. Portanto, considere as funções acima como responsabilidades funcionais, em vez de segregações rígidas de partes interessadas.
 
 [Back to top...](README.md#content) 
 
-### References
+### Referencias
 - AzSK Module <a href="https://www.powershellgallery.com/packages/AzSK/">@PSGallery</a>
 - AzSK Security Controls Portal @https://aka.ms/azskosstcp
 - Security IntelliSense <a href="https://marketplace.visualstudio.com/items?itemName=AzSDKTeam.SecurityIntelliSense-Preview">@VisualStudio Marketplace</a>
